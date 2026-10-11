@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RUSST — аксессуары для тех, кто за рулём",
+      "hasCanvas": false,
+      "bodyTextLen": 6676,
+      "bodyTextHash": "b07c676012604e4943bd9458aa87fa01554b3b342fe7ab0cc8e50ef63acc544d",
+      "bodyTextPrefix": "RUS ST ЗАВОДИМ МОТОР 5% RUSST Каталог Установка О нас Отзывы Кон",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RUSST — аксессуары для тех, кто за рулём",
+      "hasCanvas": false,
+      "bodyTextLen": 6662,
+      "bodyTextHash": "092178d833a3c2518d11d23571a1ef42232788242cb69016aa2af6d854353323",
+      "bodyTextPrefix": "RUS ST ЗАВОДИМ МОТОР 7% RUSST 0 АВТОАКСЕССУАРЫ НОВОГО УРОВНЯ Дет",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

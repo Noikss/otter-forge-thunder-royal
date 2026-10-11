@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="RUSST">
+  <rect width="32" height="32" rx="7" fill="#090b0e"/>
+  <path fill="#d9ff3f" d="M4 21.2 7.6 14.6c.6-1.1 1.8-1.8 3.1-1.8h10.4c1.4 0 2.6.8 3.2 2l3.1 6.4c.4.2.6.6.6 1v1.4c0 .7-.5 1.2-1.2 1.2h-1.6a3.15 3.15 0 0 0-6.1 0h-5.2a3.15 3.15 0 0 0-6.1 0H5.2c-.7 0-1.2-.5-1.2-1.2v-2.4Z"/>
+  <path fill="#090b0e" d="M10.4 17.6 12.4 14.4h7.6l2.4 3.2h-12Z"/>
+  <circle cx="10.3" cy="23.4" r="2.05" fill="#090b0e"/>
+  <circle cx="21.7" cy="23.4" r="2.05" fill="#090b0e"/>
+</svg>
